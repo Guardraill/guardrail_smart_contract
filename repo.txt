@@ -1,0 +1,61 @@
+
+📦 Repomix v1.14.0
+
+No custom config found at repomix.config.ts, repomix.config.mts, repomix.config.cts, repomix.config.js, repomix.config.mjs, repomix.config.cjs, repomix.config.json5, repomix.config.jsonc, repomix.config.json or global config at /home/skydev/.config/repomix/repomix.config.ts, /home/skydev/.config/repomix/repomix.config.mts, /home/skydev/.config/repomix/repomix.config.cts, /home/skydev/.config/repomix/repomix.config.js, /home/skydev/.config/repomix/repomix.config.mjs, /home/skydev/.config/repomix/repomix.config.cjs, /home/skydev/.config/repomix/repomix.config.json5, /home/skydev/.config/repomix/repomix.config.jsonc, /home/skydev/.config/repomix/repomix.config.json.
+You can add a config file for additional settings. Please check https://github.com/yamadashy/repomix for more information.
+[K[?25l⠋ Initializing...
+[K[1A[K[?25l⠙ Searching for files...
+[K[1A[K[?25l⠹ Searching for files...
+[K[1A[K[?25l⠸ Searching for files...
+[K[1A[K[?25l⠼ Collect file... (60/947) lib/forge-std/test/StdChains.t.sol
+[K[1A[K[?25l⠴ Collect file... (360/947) lib/openzeppelin-contracts/contracts/utils/cryptography/signers/draft-ERC7739.sol
+[K[1A[K[?25l⠦ Collect file... (562/947) lib/openzeppelin-contracts/lib/forge-std/test/StdMath.t.sol
+[K[1A[K[?25l⠧ Processing file... (934/934) repo.txt
+[K[1A[K[?25l⠇ Processing file... (934/934) repo.txt
+[K[1A[K[?25l⠏ Processing file... (934/934) repo.txt
+[K[1A[K[?25l⠋ Processing file... (934/934) repo.txt
+[K[1A[K[?25l⠙ Processing file... (934/934) repo.txt
+[K[1A[K[?25l⠹ Running security check... (50/934) lib/openzeppelin-contracts/contracts/access/AccessControl.sol
+[K[1A[K[?25l⠸ Running security check... (100/934) lib/openzeppelin-contracts/contracts/interfaces/draft-IERC7786.sol
+[K[1A[K[?25l⠼ Running security check... (200/934) lib/openzeppelin-contracts/contracts/mocks/AuthorityMock.sol
+[K[1A[K[?25l⠴ Running security check... (450/934) lib/openzeppelin-contracts/hardhat/async-test-sanity.js
+[K[1A[K[?25l⠦ Running security check... (750/934) lib/openzeppelin-contracts/test/helpers/eip712-types.js
+[K[1A[K[?25l⠧ Writing output file...
+[K[1A[K[?25l⠇ Calculating metrics... (80/934) lib/forge-std/RELEASE_CHECKLIST.md
+[K[1A[K[?25l⠏ Calculating metrics... (120/934) lib/openzeppelin-contracts/contracts/governance/extensions/GovernorSettings.sol
+[K[1A[K[?25l⠋ Calculating metrics... (360/934) lib/openzeppelin-contracts/contracts/token/ERC721/extensions/IERC721Metadata.sol
+[K[1A[K[?25l⠙ Calculating metrics... (460/934) lib/openzeppelin-contracts/fv/specs/methods/IOwnable2Step.spec
+[K[1A[K[?25l⠹ Calculating metrics... (570/934) lib/openzeppelin-contracts/scripts/checks/coverage.sh
+[K[1A[K[?25l⠸ Calculating metrics... (790/934) lib/openzeppelin-contracts/test/utils/cryptography/RSA.test.js
+[K[1A[K[?25l⠼ Calculating metrics... (904/934) remappings.txt
+[K[1A[K[?25l⠴ Calculating metrics... (924/934) lib/openzeppelin-contracts/CHANGELOG.md
+[K[1A[K[?25l⠦ Calculating metrics... (924/934) lib/openzeppelin-contracts/CHANGELOG.md
+[K[1A[K[?25l⠧ Calculating metrics... (924/934) lib/openzeppelin-contracts/CHANGELOG.md
+[K[1A[K[?25l⠇ Calculating metrics... (934/934) lib/openzeppelin-contracts/test/utils/math/SafeCast.test.js
+[K[1A[K[?25l✔ Packing completed successfully!
+[?25h
+📈 Top 5 Files by Token Count:
+──────────────────────────────
+1.  lib/openzeppelin-contracts/test/utils/cryptography/SigVer15_186-3.rsp (511,302 tokens, 1,066,837 chars, 23.7%)
+2.  lib/openzeppelin-contracts/lib/forge-std/src/safeconsole.sol (135,992 tokens, 427,534 chars, 6.3%)
+3.  lib/forge-std/src/safeconsole.sol (131,864 tokens, 408,926 chars, 6.1%)
+4.  lib/openzeppelin-contracts/test/utils/cryptography/ecdsa_secp256r1_sha256_p1363_test.json (71,694 tokens, 169,359 chars, 3.3%)
+5.  lib/openzeppelin-contracts/CHANGELOG.md (36,799 tokens, 145,592 chars, 1.7%)
+
+🔎 Security Check:
+──────────────────
+✔ No suspicious files detected.
+
+
+📊 Pack Summary:
+────────────────
+  Total Files: 934 files
+ Total Tokens: 2,157,203 tokens
+  Total Chars: 7,646,741 chars
+       Output: repomix-output.xml
+     Security: ✔ No suspicious files detected
+
+🎉 All Done!
+Your repository has been successfully packed.
+
+💡 Repomix is now available in your browser! Try it at https://repomix.com
